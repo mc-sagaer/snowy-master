@@ -41,7 +41,7 @@ import com.mch.sys.core.mybatis.sqlfilter.DemoProfileSqlInterceptor;
  * @date 2020/3/18 10:49
  */
 @Configuration
-@MapperScan(basePackages = {"vip.xiaonuo.**.mapper"})
+@MapperScan(basePackages = {"com.mch.**.mapper"})
 public class MybatisConfig {
 
     /**

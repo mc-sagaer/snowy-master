@@ -245,7 +245,7 @@
           this.packageNameShow = true
         } else {
           this.packageNameShow = false
-          this.form.setFieldsValue({ packageName: 'vip.xiaonuo' })
+          this.form.setFieldsValue({ packageName: 'com.mch' })
         }
       }
     }

@@ -95,7 +95,7 @@ public interface CommonConstant {
     /**
      * 默认包名
      */
-    String DEFAULT_PACKAGE_NAME = "vip.xiaonuo";
+    String DEFAULT_PACKAGE_NAME = "com.mch";
 
     /**
      * 默认密码

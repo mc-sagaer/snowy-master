@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>vip.xiaonuo</groupId>
+        <groupId>com.mch</groupId>
         <artifactId>sagaer-base</artifactId>
         <version>1.6.0</version>
         <relativePath>../pom.xml</relativePath>
@@ -19,7 +19,7 @@
 
         <!-- core模块 -->
         <dependency>
-            <groupId>vip.xiaonuo</groupId>
+            <groupId>com.mch</groupId>
             <artifactId>sagaer-core</artifactId>
             <version>1.6.0</version>
         </dependency>

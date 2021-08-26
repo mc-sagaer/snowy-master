@@ -10,11 +10,11 @@
         <version>2.3.1.RELEASE</version>
     </parent>
 
-    <groupId>vip.xiaonuo</groupId>
+    <groupId>com.mch</groupId>
     <artifactId>sagaer</artifactId>
     <version>1.6.0</version>
 
-    <name>snowy</name>
+    <name>sagaer</name>
     <description>snowy的前后端分离vue版本</description>
 
     <packaging>pom</packaging>

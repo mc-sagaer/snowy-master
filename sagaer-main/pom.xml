@@ -5,8 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>vip.xiaonuo</groupId>
-        <artifactId>snowy</artifactId>
+        <groupId>com.mch</groupId>
+        <artifactId>sagaer</artifactId>
         <version>1.6.0</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
@@ -19,15 +19,15 @@
 
         <!-- 系统模块 -->
         <dependency>
-            <groupId>vip.xiaonuo</groupId>
-            <artifactId>snowy-system</artifactId>
+            <groupId>com.mch</groupId>
+            <artifactId>sagaer-system</artifactId>
             <version>1.6.0</version>
         </dependency>
 
         <!-- 代码生成模块 -->
         <dependency>
-            <groupId>vip.xiaonuo</groupId>
-            <artifactId>snowy-gen</artifactId>
+            <groupId>com.mch</groupId>
+            <artifactId>sagaer-gen</artifactId>
             <version>1.6.0</version>
         </dependency>
 
@@ -39,7 +39,7 @@
     </dependencies>
 
     <build>
-        <finalName>snowy</finalName>
+        <finalName>sagaer</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
