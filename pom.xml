@@ -11,7 +11,7 @@
     </parent>
 
     <groupId>vip.xiaonuo</groupId>
-    <artifactId>snowy</artifactId>
+    <artifactId>sagaer</artifactId>
     <version>1.6.0</version>
 
     <name>snowy</name>
@@ -20,8 +20,8 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>snowy-base</module>
-        <module>snowy-main</module>
+        <module>sagaer-base</module>
+        <module>sagaer-main</module>
     </modules>
 
     <properties>

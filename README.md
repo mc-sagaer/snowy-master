@@ -132,11 +132,11 @@
 ```
 模块树
 ├─snowy                    ->项目工程
-│  ├─snowy-base            ->框架基础模块
+│  ├─sagaer-base            ->框架基础模块
 │       ├─snowy-core       ->核心模块
 │       ├─snowy-gen        ->代码生成
 │       ├─snowy-system     ->基础业务
-│  ├─snowy-main            ->业务开始模块
+│  ├─sagaer-main            ->业务开始模块
 │       ├─业务             ->您的业务
 ```
 2、独创前端字典翻译
