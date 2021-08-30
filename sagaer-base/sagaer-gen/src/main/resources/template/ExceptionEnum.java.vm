@@ -27,7 +27,7 @@ package ${packageName}.${modularName}.${busName}.enums;
 import com.mch.core.annotion.ExpEnumType;
 import com.mch.core.exception.enums.abs.AbstractBaseExceptionEnum;
 import com.mch.core.factory.ExpEnumCodeFactory;
-import SysExpEnumConstant;
+import com.mch.sys.core.consts.SysExpEnumConstant;
 
 /**
  * ${functionName}

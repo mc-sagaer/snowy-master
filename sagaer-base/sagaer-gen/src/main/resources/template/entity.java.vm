@@ -25,11 +25,14 @@ Snowy采用APACHE LICENSE 2.0开源协议，您在使用过程中，需要注意
 package ${packageName}.${modularName}.${busName}.entity;
 
 import com.baomidou.mybatisplus.annotation.*;
+import com.mch.core.pojo.base.entity.BaseEntity;
 import lombok.Data;
 import lombok.EqualsAndHashCode;
+import java.util.*;
 import cn.afterturn.easypoi.excel.annotation.Excel;
 #foreach ($column in $tableField)
 #if (${column.javaType} == 'BigDecimal')
+import java.math.BigDecimal;
 #end
 #end
 
